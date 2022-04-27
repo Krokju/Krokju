@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krokju
-- 👀 I’m interested in Segault
+- 👀 
 - 🌱 I currently try to avoid Segfault
 - 📫 Don't reach me please :D
 
